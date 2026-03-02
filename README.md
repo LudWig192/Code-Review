@@ -11,5 +11,5 @@ A proposta foi reproduzir o funcionamento de uma equipe real, utilizando:
 - Pull Requests
 - Code Review
 - Regras de proteção de branch 
-O foco principal foi garantir que apenas código revisado e aprovado chegasse à branch principal do projeto.
 
+O foco principal foi garantir que apenas código revisado e aprovado chegasse à branch principal do projeto.
