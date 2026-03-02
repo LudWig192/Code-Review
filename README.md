@@ -17,12 +17,12 @@ O foco principal foi garantir que apenas código revisado e aprovado chegasse à
 ## 👥 Equipe
 👨‍💻 Líder do Projeto
 Lucas Vinicius Tinin De Lima
-
 Responsável por:
-Desenvolvimento das alterações
-Criação das branches
-Abertura dos Pull Requests
-Realização dos merges após aprovação
+
+- Desenvolvimento das alterações
+- Criação das branches
+- Abertura dos Pull Requests
+- Realização dos merges após aprovação
 --------------
 🔍 Revisor de Qualidade
 Matheus De Oliveira Sousa
@@ -30,7 +30,5 @@ Matheus De Oliveira Sousa
 Responsável por:
 - Análise técnica do código
 - Aplicação do checklist de revisão
-
-Comentários e sugestões de melhoria
-
-Aprovação ou reprovação dos Pull Requests
+- Comentários e sugestões de melhoria
+- Aprovação ou reprovação dos Pull Requests
