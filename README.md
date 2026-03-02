@@ -13,7 +13,8 @@ A proposta foi reproduzir o funcionamento de uma equipe real, utilizando:
 - Regras de proteção de branch 
 
 O foco principal foi garantir que apenas código revisado e aprovado chegasse à branch principal do projeto.
----------------------------------------------
+------------------------------------------------------------
+
 ## 👥 Equipe
 ### 👨‍💻 Líder do Projeto
 Lucas Vinicius Tinin De Lima
