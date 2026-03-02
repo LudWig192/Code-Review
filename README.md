@@ -15,7 +15,7 @@ A proposta foi reproduzir o funcionamento de uma equipe real, utilizando:
 O foco principal foi garantir que apenas código revisado e aprovado chegasse à branch principal do projeto.
 
 ## 👥 Equipe
-👨‍💻 Líder do Projeto
+### 👨‍💻 Líder do Projeto
 Lucas Vinicius Tinin De Lima
 Responsável por:
 
@@ -24,7 +24,7 @@ Responsável por:
 - Abertura dos Pull Requests
 - Realização dos merges após aprovação
 --------------
-🔍 Revisor de Qualidade
+### 🔍 Revisor de Qualidade
 Matheus De Oliveira Sousa
 
 Responsável por:
