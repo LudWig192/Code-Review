@@ -32,3 +32,29 @@ Responsável por:
 - Aplicação do checklist de revisão
 - Comentários e sugestões de melhoria
 - Aprovação ou reprovação dos Pull Requests
+
+
+
+
+
+
+
+
+
+
+
+
+
+Critérios para análise de código
+
+O código está devidamente comentado, com explicações claras sobre as decisões e ideias adotadas pelo desenvolvedor?
+
+O código está corretamente identado e organizado de acordo com boas práticas de formatação?
+
+Existem funções ou trechos implementados fora do escopo ou diferentes do que foi solicitado?
+
+A implementação está coerente com os requisitos e com o comportamento esperado?
+
+O projeto possui um repositório de fácil acesso e devidamente organizado?
+
+Existem erros ou bugs evidentes que precisam ser corrigidos?
